@@ -13,8 +13,7 @@ spoketto base to the linearly extruded outlines
 A sample bike
 =============
 
-
-various caliper measurements of tatisbicycle
+various caliper measurements of a bicycle 
 
 front wheel measurements
 ========================
