@@ -1,3 +1,13 @@
+Spokettos
+=========
+scad designs for spoke attachements
+
+two design methods:
+- provide dxf outline, import into scad by edting spokettos.scad
+  - dxf files can be generated from svg by following a good
+[instructions](http://repraprip.blogspot.com/2011/05/inkscape-to-openscad-dxf-tutorial.html)
+
+
 A sample bike
 =============
 
