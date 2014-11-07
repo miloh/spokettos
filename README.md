@@ -1,5 +1,5 @@
-tatisbike
-=========
+A sample bike
+=============
 
 
 various caliper measurements of tatisbicycle
@@ -30,5 +30,16 @@ toptube diameter
 ----------------
 25.06
 
+
+Spokedoke Sample sizes
+======================
+
+cylinder cutout
+---------------
+1.88mm 
+
+friction fitt things
+--------------------
+1.77mm
 
 
