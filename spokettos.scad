@@ -3,7 +3,7 @@ frictionfitslice=1.4;
 
 module spoketteshape(){
 linear_extrude(height=5, center=true, convexity = 10)
-import (file = "examples/EFF_logo.dxf");
+import (file = "examples/The_gesture_updated.dxf");
 }
 rotate([-90,0,0])translate([-8,-12,8])scale([0.25,0.25,1])spoketteshape();
 difference(){
