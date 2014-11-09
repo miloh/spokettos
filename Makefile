@@ -1,4 +1,4 @@
-all : spoketto.stl spoketto.png
+all : spokettos.stl spokettos.png
 .PHONY: clean
 clean : 
 	rm -f *.png 
