@@ -19,4 +19,4 @@ Just type 'make' to create the stl file (assumes openscad to be installed).
 Creates an 'output.stl'
 
 
-[circleflake-stl]: http://github.com/miloh/spokettos/circleflake.stl
+[circleflake-stl]: https://github.com/miloh/spokettos/blob/master/circleflake.stl
