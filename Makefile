@@ -7,4 +7,4 @@ clean :
 	openscad -o $@ -d $@.deps $<
 
 %.png: %.scad
-	openscad spokettos.scad -o spoketto.png --camera=0,0,0,353.70,28,1.9,1950 
+	openscad spokettos.scad -o spokettos.png --camera=0,0,0,353.70,28,1.9,1950 
