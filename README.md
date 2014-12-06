@@ -19,7 +19,6 @@ s`pline/svg objects in the dxf that got exported
 Just type 'make' to create the stl file (assumes openscad to be installed).
 Creates an 'spoketto.scad'
 
-![circleflake-stl][circleflake-stl]
 
 [circleflake-stl]: https://github.com/miloh/spokettos/raw/master/img/spokettos.png
 [circleflake-png]: https://github.com/miloh/spokettos/raw/master/img/spokettos.png
