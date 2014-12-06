@@ -19,4 +19,4 @@ Just type 'make' to create the stl file (assumes openscad to be installed).
 Creates an 'spoketto.scad'
 
 
-[circleflake-stl]: https://github.com/miloh/spokettos/blob/master/img/spokettos.png
+[circleflake-stl]: https://github.com/miloh/spokettos/raw/master/img/spokettos.png
