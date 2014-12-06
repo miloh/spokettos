@@ -1,6 +1,7 @@
 Spokettos
 =========
-scad designs for spoke attachements
+scad designs for bicycle [spoke attachements][circleflake-stl]
+
 
 two design methods:
 - provide dxf outline, import into scad by edting spokettos.scad, and merge the
@@ -10,4 +11,12 @@ spoketto base to the linearly extruded outlines
 
 note on importing: dxfs imported to openscad should have straight line paths
 only, when importing dxf, a 'spline' error indicates there is some hidden
-spline/svg objects in the dxf that got exported 
+s`pline/svg objects in the dxf that got exported 
+
+#Generating STL files
+
+Just type 'make' to create the stl file (assumes openscad to be installed).
+Creates an 'output.stl'
+
+
+[circleflake-stl]: http://github.com/miloh/spokettos/circleflake.stl
