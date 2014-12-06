@@ -1,9 +1,10 @@
 Spokettos
 =========
 scad designs for bicycle [spoke attachements][circleflake-stl]
+![circleflake-png][circleflake-png]
 
 
-two design methods:
+#Two design methods:
 - provide dxf outline, import into scad by edting spokettos.scad, and merge the
 spoketto base to the linearly extruded outlines 
   - dxf files can be generated from svg by following a [good howto available at: repraprip](http://repraprip.blogspot.com/2011/05/inkscape-to-openscad-dxf-tutorial.html) note on building and exporting in inkscape: when building hand cobbled images for spokettos, the document size may offset the placement location design select file>document properties and in the page size section of the document properties dialog, choose 'resize page to drawing or selection'. proceed to export dxf files normally.
@@ -18,5 +19,7 @@ s`pline/svg objects in the dxf that got exported
 Just type 'make' to create the stl file (assumes openscad to be installed).
 Creates an 'spoketto.scad'
 
+![circleflake-stl][circleflake-stl]
 
 [circleflake-stl]: https://github.com/miloh/spokettos/raw/master/img/spokettos.png
+[circleflake-png]: https://github.com/miloh/spokettos/raw/master/img/spokettos.png
